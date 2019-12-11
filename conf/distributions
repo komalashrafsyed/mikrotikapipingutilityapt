@@ -1,0 +1,7 @@
+Origin: MikrotikAPIPing Tool
+Label: mikrotikapiping
+Codename: bionic
+Architectures: amd64
+Components: main
+Description: Personal repository
+SignWith: E7453C14AAD62B75FA38A260FAD8B638D56D9335 

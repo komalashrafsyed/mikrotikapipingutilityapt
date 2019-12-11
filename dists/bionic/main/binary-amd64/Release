@@ -1,0 +1,5 @@
+Component: main
+Origin: MikrotikAPIPing Tool
+Label: mikrotikapiping
+Architecture: amd64
+Description: Personal repository
