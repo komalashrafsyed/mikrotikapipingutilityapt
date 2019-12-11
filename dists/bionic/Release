@@ -1,19 +1,19 @@
 Origin: MikrotikAPIPing Tool
 Label: mikrotikapiping
 Codename: bionic
-Date: Wed, 11 Dec 2019 21:39:18 UTC
+Date: Wed, 11 Dec 2019 23:32:18 UTC
 Architectures: amd64
 Components: main
 Description: Personal repository
 MD5Sum:
- 18d35ec0a6463a496f0c5f1df0bbc300 734 main/binary-amd64/Packages
- f6d906ef6022a6aae5a7ca2b711f015a 492 main/binary-amd64/Packages.gz
+ 9c29356dda80e8288c0a8d88dd26ec0f 734 main/binary-amd64/Packages
+ 2b2c21c5508bcfee35da058888a4bb7f 495 main/binary-amd64/Packages.gz
  7984536c85a82c478752372afdbfbf71 121 main/binary-amd64/Release
 SHA1:
- e4d6f0322279058405fa01be99b3400baa30e1c7 734 main/binary-amd64/Packages
- d2cb72e8fb6a0a2355977f1a946915eb8f7b8392 492 main/binary-amd64/Packages.gz
+ 19f709f9152a7478fc2ce967141eaf4f825bc8d4 734 main/binary-amd64/Packages
+ 99f999d7c199cc4957433f91af35748e1da704f1 495 main/binary-amd64/Packages.gz
  b7a78e9bb83315bd68037908c23bd6894a5f1b03 121 main/binary-amd64/Release
 SHA256:
- 8619a96e3301b82679e8f4ae1843caa06f75c01abfc1f22d03d7cde79bfebcde 734 main/binary-amd64/Packages
- 2875771b01b8d161c7ed3f39200ec75cce22df078c6ad794eb0f0871318085ec 492 main/binary-amd64/Packages.gz
+ 45d65a759bf2c3556d103c6f68a33d15179f9ed4475a2059e78043e526d3fce5 734 main/binary-amd64/Packages
+ 4f8fdae423428a71074a0a49610642926513f33ae9f9d3251cb9d3172910d252 495 main/binary-amd64/Packages.gz
  8549d45e864dced320eae142f11cfce00069dc8e8fb840fa2a3af1efbd9c58f5 121 main/binary-amd64/Release
