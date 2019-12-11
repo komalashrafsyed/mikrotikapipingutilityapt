@@ -1,2 +1,2 @@
-# mikrotikrouterpingutiltiyapt2
+# mikrotikrouterpingutiltiyapt
 mikrotikrouterpingutiltiyapt 2.0 upload
