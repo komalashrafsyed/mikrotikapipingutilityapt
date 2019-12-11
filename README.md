@@ -13,4 +13,6 @@ $ sudo apt-get update </br>
 $ sudo apt-get install mikrotikapiping </br>
 $ export PING_HOME=/opt/ksyed/mikrotikapiping/MikrotikAPIPing.dll </br>
 
-At this stage the Ping Utilty is installed in your system ready to be used!
+$ sudo dotnet $PING_HOME </br>
+
+At this stage the Mikrotik Ping Utiltiy is installed in your system ready to be used!
