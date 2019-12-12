@@ -1,17 +1,17 @@
 Package: mikrotikapiping
 Version: 2.0-0ubuntu1
 Architecture: amd64
-Maintainer: root <v-kosyed@microsoft.com>
+Maintainer: root v-kosyed@microsoft.com
 Installed-Size: 76863
 Depends: libc6 (>= 2.14), libcurl4 (>= 7.16.2), libgcc1 (>= 1:3.0), libgssapi-krb5-2 (>= 1.14+dfsg), liblttng-ust0 (>= 2.5.0), libstdc++6 (>= 4.8), zlib1g (>= 1:1.1.4)
 Homepage: <insert the upstream URL, if relevant>
 Priority: optional
 Section: unknown
 Filename: pool/main/m/mikrotikapiping/mikrotikapiping_2.0-0ubuntu1_amd64.deb
-Size: 22399952
-SHA256: 68bbd78e6ef6bc765d0bad1a5a88c00bfb4eae318dfbf71e8bcc9df9f89e7b9c
-SHA1: 1f77274b93f53a1b512e2feddcb3cebcb0ebc176
-MD5sum: f5cdcc513e1be9126199103ffe85c73c
+Size: 22394884
+SHA256: c6b057cee40caafbdeae163bb9430fc0a63f34940ddc001cd4b2eed539dd9d4c
+SHA1: 5bf3b0213f954186079aec36c70fb07766aa7ab1
+MD5sum: 8c503b003d100e2047f4a17518da0887
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 
