@@ -4,33 +4,33 @@ Hash: SHA512
 Origin: MikrotikAPIPing Tool
 Label: mikrotikapiping
 Codename: bionic
-Date: Fri, 13 Dec 2019 16:31:17 UTC
+Date: Fri, 27 Dec 2019 20:25:35 UTC
 Architectures: amd64
 Components: main
 Description: Personal repository
 MD5Sum:
- db6366bb0ac67df711f1e5b966bb0a20 734 main/binary-amd64/Packages
- 99a963ed57e5e3325106bce588bc883f 492 main/binary-amd64/Packages.gz
+ fcb5b8792c9931528357c1ff59e6a1d3 734 main/binary-amd64/Packages
+ 0086241fba4ba4762fe4c7095999f5e9 492 main/binary-amd64/Packages.gz
  7984536c85a82c478752372afdbfbf71 121 main/binary-amd64/Release
 SHA1:
- 0c1010c2deb387a09594ebc814858d95ffff401b 734 main/binary-amd64/Packages
- 55531ddbbaafbe8f6be26b2c5e8b048f5ad97063 492 main/binary-amd64/Packages.gz
+ af0edefc9f03afcd9d6b04c1f5ebdf8055cb26c7 734 main/binary-amd64/Packages
+ 6577fa88a1f1d5973809b8460de37fcc8b317b97 492 main/binary-amd64/Packages.gz
  b7a78e9bb83315bd68037908c23bd6894a5f1b03 121 main/binary-amd64/Release
 SHA256:
- 48da611f9cdaaeabce6ffc252a59781115cc733c81ff2048a620136b296ae28a 734 main/binary-amd64/Packages
- a30b4bc9e3c094d0e433de9268dc130d0ccb331a565e8d695a6b3793d4169155 492 main/binary-amd64/Packages.gz
+ 0e43ba7aafbc2a58c8f248eec19f03fb16d9e38e51faa6fbb82641cebcb19aa0 734 main/binary-amd64/Packages
+ 6dc71b3e7e2ca5cdce697d0f50c3dc927a9a07631c19f9abcc457bf280984e8a 492 main/binary-amd64/Packages.gz
  8549d45e864dced320eae142f11cfce00069dc8e8fb840fa2a3af1efbd9c58f5 121 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEE1y2ly3FF9qCoVBLE5DU1yVVynGYFAl3zvNkACgkQ5DU1yVVy
-nGZKIAv/RokgaICXVTrTXy+tbrEiZY5YU7bDtshmxhSP2gt3/zzm+n3OK2eeRNLb
-k6DEpndX7hcsO4gBIF1g2apBOKYQcyUgbt6pCDZuK9KG7uV3xvDNmV0uqr4DIv5q
-/je/ED/Qld9j03l8VCwFFgn/C7zN7/RQXGUs60emz3bX8qrIo/mx5Xl8rcT1J9S0
-8a7zh4SMTb6DRoTFY3iEvsBfT+skdSO0+5ZavNCzcXcBgJZR1tEuhSM8Xo0uCeWk
-Ia7207zZEehFAzmoL2JZag/OxKy22fNLonhXAYS/vz2mfdjNQgstWYrT7/Hm5tRH
-J/lLn9I/GBNG0dC+Kz7LhhYl+I2FUVsnHAJuGbJJMBTUvTw/+n10+K9auB0WG1z0
-uDBYILUwvTFOV0CL4zGQqK2WuwtqmP4KyAl1TjnMJA3UJaEMbuMrbsJaPDKV22uC
-tFjH45aVCeX8b3poZVXyX8ZEleQMpJhXNC6HNOmQnWzyd0C0vrB6GHpg95Aqa4uo
-WxVhgh5j
-=+rSm
+iQGzBAEBCgAdFiEEdyDHQNcdH+8iRvt3Du0k3Pm/+KcFAl4GaMMACgkQDu0k3Pm/
++KctqgwAt4/Gm9WiERXrE+rwQ217E4Xiss+46stSyT0kyywUlIW2AI4Xt5T31qxe
+i+pDa6YjjXTUjFJZ+wf1IvGDhfn3v44BZjK1CctzaYsWBSC5cnPlN/6w2Eqykazp
+mVCEbMxf8Evnt7ssGnrbo7Go1sujtvNvVTe9lNC9NSw89BmlL7982mxtBO0u5e38
+GT78BKyoNHxRWv6qkxpy4cIjwqUtpMabnI0RhPjgKlZw0ANk5bv+2yJgBJdPYW+a
+spms7fVGpSEE9+Ys1CRVMhCg8Oomsnbvl+Zze5r3lxewAuw9VYgFiKAfJHzl6Fo+
+Oie+ek/OqX6Jb72k9CWHhYZNlWkm+iit4yL0YGObmj0+oayPfOyL1GJ3RemHfe8b
+WO/YeBe8Cvoe2O2AqaArxEWRXyxs07FGtBY1nWbZihPOzchhRVk2f6PTupAdWoPv
+HDZgQG+/OrmF0arMGeFglE/yC09rH4o9BnAtSi2baJPB2g4xTt+dN5NVvlRnL89R
+pa+diAnR
+=KM1u
 -----END PGP SIGNATURE-----

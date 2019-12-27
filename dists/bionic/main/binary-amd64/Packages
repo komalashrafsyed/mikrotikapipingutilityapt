@@ -8,10 +8,10 @@ Homepage: <insert the upstream URL, if relevant>
 Priority: optional
 Section: unknown
 Filename: pool/main/m/mikrotikapiping/mikrotikapiping_2.0-0ubuntu1_amd64.deb
-Size: 22391656
-SHA256: 7c83b806e3ef88a4cd39c488639876cb9a187aa24c7bc3b848dfcb4d416c7098
-SHA1: 6b4cd26362be6eb65219a6febc2b0d8db5d6ebdc
-MD5sum: b7f21e7a6031b481124e4a2af7006bdc
+Size: 22410096
+SHA256: cbeb096d0d9f8e052fe6b4a531562f0bc11a3e68c152b9f1130f7c78a34ae739
+SHA1: 2d89f3b5924a976efc68ee80723b8a324617130f
+MD5sum: 770a651066f74f9026ea70a347697f33
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 
